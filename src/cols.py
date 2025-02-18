@@ -1,0 +1,25 @@
+year = 'Year'
+nation = 'Nation'
+state = 'State'
+county = 'County'
+assignment = 'Assignment'
+
+mean = 'Mean'
+stddev = 'Stddev'
+stations = 'Stations'
+pivot_temp = 'Pivot Temperature'
+diff = 'Difference to pivot'
+running = 'Running mean'
+
+sdo_id = 'SDO_ID'
+timestamp = 'Time stamp'
+longitude = 'Longitude'
+latitude = 'Latitude'
+altitude = 'Altitude'
+temperature = 'Temperature'
+rainfall = 'Rainfall'
+
+area = 'Area'
+
+automated = 'automated'
+manually = 'manually'
